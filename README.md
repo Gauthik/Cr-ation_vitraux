@@ -26,3 +26,10 @@ et une couche centrale qui serait une couche de plastiquet sur laquelle est impr
 
 Littérature :
 - https://www.cs.usask.ca/faculty/mould/papers/glass.pdf
+
+
+Liaison ;
+- Plomb
+- Etain
+- Résine Epoxy (noire)
+- Technique Tiffany

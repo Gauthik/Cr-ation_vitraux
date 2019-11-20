@@ -10,13 +10,19 @@ et une couche centrale qui serait une couche de plastiquet sur laquelle est impr
 
 - Voir pour donner une image de modernisme / jeune des vitraux
   - Jeux-vidéos, séries, équipes de foot : Il ya bcp de logo, illustrations, personnages qui peuvent être fait en vitrail.
-  (Death stranding, MW, League of legends, fortnite, 
+  (Death stranding, MW, League of legends, fortnite...)
 - Voir pour proposer une boutique en ligne qui permet l'achat de modèles standard.
 - Le gros avantage est qu'une fois un modèle créé, on a en mémoire tous les plans et les coûts de production sont grandement réduits.
 
+- Créations à thèmes pour les saisons et fêtes : Halloween , noel, ...
 
 - Elements décoratifs d'intérieur.
 - Incorporation de leds, éclairage, rgb
 
 
+
 - Impression 3d?
+
+
+Littérature :
+- https://www.cs.usask.ca/faculty/mould/papers/glass.pdf

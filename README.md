@@ -17,3 +17,6 @@ et une couche centrale qui serait une couche de plastiquet sur laquelle est impr
 
 - Elements décoratifs d'intérieur.
 - Incorporation de leds, éclairage, rgb
+
+
+- Impression 3d?
